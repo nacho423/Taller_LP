@@ -1,0 +1,37 @@
+section{
+    height: auto;
+    /* background-color: #6DCCAA; */
+    background-color: blueviolet;
+}
+nav{
+    background-color: brown;
+}
+footer{
+    background-color: crimson;
+}
+#vegan{
+    text-align: center;
+}
+#texto_encabezado_vegan{
+    color: cadetblue;
+}
+#encabezado_crudo{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 10vh;
+}
+#menu{
+    text-align: center;
+    height: 10vh;
+    
+}
+#menu a{
+    text-decoration: none;
+    color: black;
+}
+#barra_menu{
+    background-color: chartreuse;
+    text-align: center;
+    
+}
