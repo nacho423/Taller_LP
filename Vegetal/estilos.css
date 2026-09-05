@@ -16,19 +16,28 @@ footer{
     color: cadetblue;
 }
 #encabezado_crudo{
-    justify-content: center;
-    align-items: center;
     display: flex;
-    height: 10vh;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    color: aqua;
+}
+#barra_menu{
+    height: auto;
 }
 #menu{
     text-align: center;
-    height: 10vh;
+    height: auto;
     
 }
 #menu a{
     text-decoration: none;
     color: black;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
 }
 #barra_menu{
     background-color: chartreuse;
